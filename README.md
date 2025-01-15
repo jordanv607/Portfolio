@@ -1,2 +1,2 @@
-# jordanv607Portfolio
+# Portfolio
 This is my personal portfolio.
